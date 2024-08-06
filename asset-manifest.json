@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/openlabs_websites/static/css/main.f2a22666.css",
+    "main.js": "/openlabs_websites/static/js/main.e3786b57.js",
+    "static/js/453.e96481cb.chunk.js": "/openlabs_websites/static/js/453.e96481cb.chunk.js",
+    "index.html": "/openlabs_websites/index.html",
+    "main.f2a22666.css.map": "/openlabs_websites/static/css/main.f2a22666.css.map",
+    "main.e3786b57.js.map": "/openlabs_websites/static/js/main.e3786b57.js.map",
+    "453.e96481cb.chunk.js.map": "/openlabs_websites/static/js/453.e96481cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a22666.css",
+    "static/js/main.e3786b57.js"
+  ]
+}
